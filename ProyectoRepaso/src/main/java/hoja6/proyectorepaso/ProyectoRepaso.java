@@ -12,7 +12,7 @@ package hoja6.proyectorepaso;
 public class ProyectoRepaso {
 
     public static void main(String[] args) {
-        System.out.println("Primera linea");
+        System.out.println("Linea con conflicto");
         System.out.println("Segunda linea");
     }
 }
